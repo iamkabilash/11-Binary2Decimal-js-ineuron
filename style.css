@@ -47,6 +47,10 @@ body {
     border: none;
     cursor: pointer;
 }
+.btn:hover{
+    background-color: #ffffff;
+    color: black;
+}
 .result{
     color: white;
 }
